@@ -1,4 +1,4 @@
-Event Planning System
+## Event Planning System
 This console-based application helps users manage events, attendees, and venues efficiently. It leverages Object-Oriented Programming (OOP) principles for a structured and robust design.
 Key Features
 Event Management: Create, manage, and view event details (name, date, time, venue).
